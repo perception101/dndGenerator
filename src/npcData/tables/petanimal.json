@@ -23,5 +23,6 @@
   { "w":4, "v":"{$quirks+a pet otter }"},
   { "w":4, "v":"{$quirks+a pet owl }"},
   { "w":1, "v":"{$quirks+a pet stick }"},
+  { "w":4, "v":"{$quirks+a pet beetle }"},
   { "w":2, "v":"{$quirks+a pet crab }"}
 ]
